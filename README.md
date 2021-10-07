@@ -1,5 +1,9 @@
 # node2vec
 
+node2vec is an algorithmic framework for representational learning on graphs. Given any graph, it can learn continuous feature representations for the nodes, which can then be used for various downstream machine learning tasks.
+
+Please read [this](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef) blog to learn more about node2vec.
+
 ### Setup
 
 First of all, I will install the [graph2vec library](https://github.com/VHRanger/graph2vec) which offers a fast implementation of the node2vec method.
