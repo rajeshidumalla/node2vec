@@ -44,7 +44,7 @@ First of all, I will install the [graph2vec library](https://github.com/VHRanger
     Successfully installed csrgraph-0.1.28 nodevectors-0.1.23
 
 
-I now import the library, and create a small wrapper class which will expose only the few hyperparameters I will need to tune in this Colab
+I now import the library, and create a small wrapper class which will expose only the few hyperparameters I will need to tune in this work.
 
 
 ```python
